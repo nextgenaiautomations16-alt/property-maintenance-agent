@@ -1,0 +1,107 @@
+[
+  {
+    "case_id": "CASE001",
+    "tenant_name": "M. Chen",
+    "property_id": "PROP-101",
+    "unit_id": "3B",
+    "message": "There is water coming through the ceiling. I tried calling and nobody answered."
+  },
+  {
+    "case_id": "CASE002",
+    "tenant_name": "J. Alvarez",
+    "property_id": "PROP-204",
+    "unit_id": "12",
+    "message": "I smell gas in the kitchen, it's pretty strong."
+  },
+  {
+    "case_id": "CASE003",
+    "tenant_name": "R. Patel",
+    "property_id": "PROP-101",
+    "unit_id": "5A",
+    "message": "My smoke detector is going off and I can smell smoke near the stove."
+  },
+  {
+    "case_id": "CASE004",
+    "tenant_name": "K. Novak",
+    "property_id": "PROP-204",
+    "unit_id": "7",
+    "message": "The kitchen faucet has been dripping for a few days, not urgent."
+  },
+  {
+    "case_id": "CASE005",
+    "tenant_name": "T. Osei",
+    "property_id": "PROP-101",
+    "unit_id": "2C",
+    "message": "Bathroom light bulb burned out, could someone replace it when convenient."
+  },
+  {
+    "case_id": "CASE006",
+    "tenant_name": "S. Kowalski",
+    "property_id": "PROP-204",
+    "unit_id": "9",
+    "message": "No heat in the apartment since this morning, it's freezing."
+  },
+  {
+    "case_id": "CASE007",
+    "tenant_name": "L. Rossi",
+    "property_id": "PROP-101",
+    "unit_id": "1A",
+    "message": "The front door hinge is squeaking loudly."
+  },
+  {
+    "case_id": "CASE008",
+    "tenant_name": "D. Nakamura",
+    "property_id": "PROP-204",
+    "unit_id": "4B",
+    "message": "There's sewage backing up into the bathtub."
+  },
+  {
+    "case_id": "CASE009",
+    "tenant_name": "A. Fischer",
+    "property_id": "PROP-101",
+    "unit_id": "6C",
+    "message": "Power went out in half the unit, breaker won't reset."
+  },
+  {
+    "case_id": "CASE010",
+    "tenant_name": "P. Delgado",
+    "property_id": "PROP-204",
+    "unit_id": "11",
+    "message": "Carbon monoxide detector is beeping."
+  },
+  {
+    "case_id": "CASE011",
+    "tenant_name": "J. Alvarez",
+    "property_id": "PROP-101",
+    "unit_id": "3B",
+    "message": "The toilet keeps running after flushing, wastes water."
+  },
+  {
+    "case_id": "CASE012",
+    "tenant_name": "M. Chen",
+    "property_id": "PROP-204",
+    "unit_id": "6",
+    "message": "Screen door off its track, minor repair whenever."
+  },
+  {
+    "case_id": "CASE013",
+    "tenant_name": "R. Patel",
+    "property_id": "PROP-101",
+    "unit_id": "8B",
+    "message": "There's a strange burning smell coming from the electrical panel."
+  },
+  {
+    "case_id": "CASE014",
+    "tenant_name": "K. Novak",
+    "property_id": "PROP-204",
+    "unit_id": "3",
+    "message": "My apartment flooded overnight, water is an inch deep in the hallway."
+  },
+  {
+    "case_id": "CASE015",
+    "tenant_name": "T. Osei",
+    "property_id": "PROP-101",
+    "unit_id": "4A",
+    "message": "Kind of a weird message, not sure how to describe it, something feels off with the unit but I can't tell what."
+  }
+]

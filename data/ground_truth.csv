@@ -1,0 +1,16 @@
+case_id,expected_urgency,note
+CASE001,high,the exact scenario from the job posting
+CASE002,critical,"life-safety, must never be missed"
+CASE003,critical,fire risk
+CASE004,routine,clearly routine
+CASE005,routine,clearly routine
+CASE006,high,loss of essential utility
+CASE007,routine,clearly routine
+CASE008,high,property damage + health risk
+CASE009,high,loss of essential utility
+CASE010,critical,life-safety
+CASE011,routine,clearly routine
+CASE012,routine,clearly routine
+CASE013,critical,fire/electrical risk
+CASE014,high,active property-damage risk
+CASE015,high,ambiguous -- should route to LLM and default cautiously
