@@ -49,8 +49,10 @@ Critical-urgency cases missed: 0
 
 Resolved with NO model call (deterministic rules only): 14/15 (93%)
 Required a model call: 1/15 (7%)
-```  ![Full event log for the job posting's water-leak scenario](demo-response.png)
+```
 
+![Full event log for the job posting's water-leak scenario](demo-response.png)
+```
 That 93% figure is the concrete evidence behind this project's core design claim — not an assertion, a number from an actual run against a labeled test set.
 
 ## A real bug this project's own eval caught
